@@ -5,11 +5,11 @@
 
 - ❤ Passion about Front-End **CSS/Bootstrap/Javascript**
 
+- 🚀 Excitement for Back-End **Ruby ❤**
+
 - 🎓 I have recently completed **Le Wagon's 9-week Ruby on Rails Full-Stack Development Bootcamp**
 
 - 🍿 WebApp built within 9 days [Indicaria](https://indicaria.herokuapp.com/)
-
-- 🚀 Excitement for Back-End **Ruby ❤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
