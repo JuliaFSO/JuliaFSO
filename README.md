@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋😃, I'm Julia</h1>
-<h3 align="center">A passionate Full-Stack Developer from Brazil 🚀❤</h3>
+<h1 align="center">Hi there! <img src="https://i.pinimg.com/originals/23/bd/bb/23bdbb2377322553edd9df0fd4b5d17b.gif" height="50">  My name is Julia</h1>
+<h3 align="center">A passionate Full-Stack Developer 🚀❤:computer:</h3>
 
 - 🤝 I’m looking to collaborate on **Ruby on Rails projects**
 
