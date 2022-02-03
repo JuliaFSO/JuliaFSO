@@ -1,11 +1,9 @@
 <h1 align="center">Hi there! <img src="https://i.pinimg.com/originals/23/bd/bb/23bdbb2377322553edd9df0fd4b5d17b.gif" height="50">  My name is Julia</h1>
-<h3 align="center">A passionate Full-Stack Developer 🚀❤:computer:</h3>
+<h3 align="center">A passionate Full-Stack Developer 🚀 :computer: ❤ </h3>
 
-- 🤝 I’m looking to collaborate on **Ruby on Rails projects**
+- ❤ Passion about **CSS/Bootstrap/Javascript**
 
-- ❤ Passion about Front-End **CSS/Bootstrap/Javascript**
-
-- 🚀 Excitement for Back-End **Ruby ❤**
+- 🚀 Excitement for **Ruby on Rails projects**
 
 - 🎓 I have recently completed **Le Wagon's 9-week Ruby on Rails Full-Stack Development Bootcamp**
 
