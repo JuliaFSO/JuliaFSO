@@ -1,5 +1,7 @@
 <h1 align="center">Hi there! <img src="https://i.pinimg.com/originals/23/bd/bb/23bdbb2377322553edd9df0fd4b5d17b.gif" height="50">  My name is Julia</h1>
-<h3 align="center">A passionate Full-Stack Developer 🚀 :computer: ❤ </h3>
+<h3 align="center">A passionate Full-Stack Developer 🚀 :computer: ❤ </h3><img src="https://media2.giphy.com/media/JoxRm57oo3mGdgbhDv/giphy.gif?cid=790b761165ac1a6d3c550ea5bd0e02296029769b86fdeed7&rid=giphy.gif&ct=s" height="150" align="right">
+
+- 🤝 Looking forward to work in **React projects**
 
 - ❤ Passion about **CSS/Bootstrap/Javascript**
 
