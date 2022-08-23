@@ -15,7 +15,7 @@
 
 <div align="center">
 <a href="https://github.com/JuliaFSO" style="text-decoration: none"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuliaFSO&layout=compact&langs_count=7&theme=dracula"/></a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://github.com/JuliaFSO" style="text-decoration: none"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaFSO&layout=compact&langs_count=7&theme=dracula"/></a>
+<a href="https://github.com/JuliaFSO" style="text-decoration: none"><img height="150em" src="https://github-readme-stats-julia.vercel.app/api/top-langs/?username=JuliaFSO&layout=compact&langs_count=7&theme=dracula"/></a>
 
    
    
