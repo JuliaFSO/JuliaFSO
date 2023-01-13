@@ -9,8 +9,6 @@
 
 - 🎓 I have recently completed **Le Wagon's 9-week Ruby on Rails Full-Stack Development Bootcamp**
 
-- 🍿 WebApp built within 9 days [Indicaria](https://indicaria.herokuapp.com/)
-
  ##
 
 <div align="center">
