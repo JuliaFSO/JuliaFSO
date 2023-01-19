@@ -5,7 +5,7 @@
 - 🚀 Excitement for **Ruby on Rails projects**
 - 🌱 Taking **courses** & doing **assignments**
 - 🤝 I'm currently focusing on enhancing my **React skills** and expanding my knowledge of the framework
-- 🎓 **Le Wagon's alumni 🚀❤ batch #616**
+- 🎓 **Le Wagon's alumni 🚀❤ **batch #616**
 
  ##
 
