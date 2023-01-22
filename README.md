@@ -4,7 +4,7 @@
 - ❤ Passion about **CSS/Bootstrap/Javascript/React**
 - 🚀 Excitement for **Ruby on Rails projects**
 - 🌱 Taking **courses** & doing **assignments**
-- 🤝 I'm currently focusing on enhancing my **React skills**
+- 🤝 I'm currently focusing on enhancing my **React + Redux skills**
 - 🎓 Le Wagon's alumni 🚀❤ **batch #616**
 
  ##
