@@ -1,12 +1,12 @@
-<h1 align="center">Hi there! <img src="https://i.pinimg.com/originals/23/bd/bb/23bdbb2377322553edd9df0fd4b5d17b.gif" height="50"> I'm Julia! </h1>
-<h3 align="center">A dedicated full-stack developer 🚀 :computer: ❤ </h3>
+<h1 align="center">👩‍💻 Hi there, I'm Julia! 🚀 Come Along on My Coding Journey! </h1>
+<h3 align="center">In-Dev Dev: Constantly Growing Fullstack Developer 🌱💻 </h3>
 
-- ❤ Passion about **CSS/Bootstrap/Javascript/React**
-- 🚀 Excitement for **Ruby on Rails projects**
-- 🌱 Taking **courses** & doing **assignments**
-- 📱 Working on some **React Native** projects 
-- 🤝 I'm currently focusing on enhancing my **React + Redux skills**
-- 🎓 Le Wagon's alumni 🚀❤ **batch #616**
+- ❤️ Enthusiastic about **CSS, Bootstrap, JavaScript, and React**
+- 🚀 Excited to dive into **Ruby on Rails projects**
+- 🌱 Actively engaged in **Python courses** and **assignments**
+- 📱 Developing projects with **React Native**
+- 🤝 Focused on strengthening my **React + Redux expertise**
+- 🎓 Proud alumni of Le Wagon's **batch #616** 🚀❤️
 
  ##
 
@@ -21,12 +21,12 @@
 <p align="left"> 	
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
 <a href="https://rubyonrails.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
+ <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png" alt="python" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
 </p>
