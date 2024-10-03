@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Hi there, I'm Julia! 🚀 Come Along on My Coding Journey! </h1>
+<h1 align="center">👩‍💻 Hi there, I'm Julia! Come Along on My Coding Journey! 🚀 </h1>
 <h3 align="center">In-Dev Dev: Constantly Growing Fullstack Developer 🌱💻 </h3>
 
 - ❤️ Enthusiastic about **CSS, Bootstrap, JavaScript, and React**
