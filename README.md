@@ -1,9 +1,10 @@
 <h1 align="center">👩‍💻 Hi there, I'm Julia! Come Along on My Coding Journey! 🚀 </h1>
-<h3 align="center">In-Dev Dev: Constantly Growing Fullstack Developer 🌱💻 </h3>
+<h3 align="center">Fullstack Developer | Software Testing & Automation Enthusiast 🌱💻</h3>
 
 - ❤️ Enthusiastic about **CSS, Bootstrap, JavaScript, and React**
-- 🚀 Excited to dive into **Ruby on Rails projects**
-- 🌱 Actively engaged in **Python courses** and **assignments**
+- 🛠️ **Certified Software Tester (ISTQB)**
+- 🚀 Excited to dive into **Python projects**
+- 🌱 Continuously enhancing my skills in **Python**, **Selenium**, and **Automation testing**
 - 📱 Developing projects with **React Native**
 - 🤝 Focused on strengthening my **React + Redux expertise**
 - 🎓 Proud alumni of Le Wagon's **batch #616** 🚀❤️
